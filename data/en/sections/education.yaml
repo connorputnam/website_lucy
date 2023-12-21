@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.S. Statistics
+  icon: fa-microscope
+  timeframe: 2019-2021
+  institution:
+    name: Oregon State University
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades:
+    courses:
+    - name: Generalized Linear Models (GLM)
+    - name: Probability, Computation, and Simulation
+    - name: Data Science Tools & Programming
+    - name: Linear Models
+    - name: Data Visualization
+    - name: Experimental Design
+    - name: Statistical Theory
+    - name: Methods of Big Data
+    - name: Time Series
+    - name: Sampling Methods
+    - name: Statistical Consulting
+- name: B.A. Economics
+  icon: fa-graduation-cap
+  timeframe: 2013-2016
+  institution:
+    name: University of California, Davis
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades:
+    courses:
+    - name: Calculus
+    - name: Analysis of Economic Data
+    - name: Intermidate Mirco & Macro Economics
+    - name: Financial Economics
+- name: B.A. History
+  icon: fa-university
+  timeframe: 2013 - 2016
+  institution:
+    name: University of California, Davis
+    url: "#"
+  takenCourses: #(Optional)
+    showGrades:
+    courses:
+    - name: Various Courses in European and MiddleEastern History
+

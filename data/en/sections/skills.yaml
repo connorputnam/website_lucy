@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  logo: "/images/sections/skills/Ricon.png"
+  summary: "Capable of conducting all things R, including statistical analysis, data wrangling and visualizations. Fluent in the Tidyverse package."
+
+- name: SQL
+  logo: "/images/sections/skills/MySQL.png"
+  summary: "Ability to perform data manipulation as well as maintaining a solid knowledge of the logical framework behind relational databases."
+
+- name: R Shiny
+  logo: "/images/sections/skills/shiny.png"
+  summary: "Experience with both devopling and deploying Shiny Apps and Documents."
+
+- name: SAS
+  logo: "/images/sections/skills/SAS.png"
+  summary: "Knowledge of how to run a variety of statistical analyses, including visualizations and model parameters"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Capable of writing and running moderately complex scripts. Knowledge mostly focused in the pandas, numpy and matplotlib packages."
+
+- name: LaTeX
+  logo: "/images/sections/skills/latex.png"
+  summary: "Ability to write well formated documents and reports containing mathamtical notation."
+  
+- name: Google Cloud Platform
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Mostly familiar with BigQuery, Dataprep, Spark and Compute Engine."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Specifically, Github."
+

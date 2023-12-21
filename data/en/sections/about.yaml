@@ -1,0 +1,70 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Graduate Student and Aspiring Data Analyst 
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Resume 2022.pdf"
+
+# a summary about you
+summary: 'I am passionate for learning new things about the world around me through data. I enjoy working on visualization as well as modeling projects.' 
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "coputnam@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/connorputnam"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/connorputnam/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Communication
+  percentage: 95
+  color: blue
+- name: Teamwork
+  percentage: 90
+  color: yellow
+- name: Adaptability
+  percentage: 80
+  color: pink
+- name: Organized
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

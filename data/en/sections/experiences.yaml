@@ -1,0 +1,125 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Oregon State University
+    url: "https://stat.oregonstate.edu/"
+    location: Remote
+    # company overview
+    overview: A large Public University located in the Pacfic Northwest.
+  positions:
+  - designation: Instructor
+    start: December 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Hold office hours and maintained a gradebook
+    - Teach students statistics fundamentals
+    - Communicate with students to make sure individual needs are being met
+    - Answer student questions and address student concerns
+- company:
+    name: IXIS Digital
+    url: "https://ixisdigital.com/"
+    location: Remote
+    # company overview
+    overview: Web analystics consulting. 
+  positions:
+  - designation: Data Analyst II
+    start: Februray 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Manage and analyze data from internet tagging.
+    - Build and automate reports.
+    - Pull in data through APIs.
+    - Perform customer requested analyses in Adobe Analytics as well as R.
+    
+- company:
+    name: ADM Associates
+    url: "https://www.admenergy.com/"
+    location: Remote
+    # company overview
+    overview: An energy research and evaluation company. 
+  positions:
+  - designation: Data Analyst II
+    start: April 2021 
+    end: Februray 2022 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Manage and analyze large data sets.
+    - Perform inital EDA and data cleaning.
+    - Build energy models with a focus in home energy and renewables.
+    - Organize work and deadlines with coworkers.
+
+- company:
+    name: Oregon State University
+    url: "https://stat.oregonstate.edu/"
+    location: Corvallis, Oregon
+    # company overview
+    overview: A large Public University located in the Pacfic Northwest. 
+  positions:
+  - designation: Graduate Teaching Assistant
+    start: September 2019
+    end: March 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Conducted labs for serval courses, covering undergraduate topics in statistical methods and R programming
+    - Held office hours and maintained a gradebook
+
+- company:
+    name: EVmatch
+    url: "https://www.evmatch.com/"
+    location: Remote
+    overview: EVmatch is a peer to peer electric car charging platform.
+  positions:
+  - designation: Data and Product Analyst Intern
+    start: September 2020
+    end: Janurary 2021
+    responsibilities:
+      - Identified and analyzed data sets to inform product development.
+      - Developed data-driven customer engagement tools.
+      - Performed statistical analyses to identify customer characteristics.
+      - Created several static as well as dynamic visualizations.
+
+- company:
+    name: Scotts Valley Unified Schools
+    url: "https://scottsvalley-ca.schoolloop.com/"
+    location: Scotts Valley, California
+    overview: Public school system loctaed in the Bay Area.
+  positions:
+  - designation: Math Educator
+    start: August 2017
+    end: Jun 2019
+    responsibilities:
+    - Maintian a productive classroom work eviroment
+    - Taught high school level Alegbra and Geometry
+    - Maintained a gradebook
+
+- company:
+    name: Chase
+    url: "https://www.chase.com/"
+    location: Oakland, California
+    overview: Nationwide customer bank
+  positions:
+  - designation: Bank Teller
+    start: August 2016
+    end: Jun 2017
+    responsibilities:
+    - Customer service.
+    - Managed several hundred thousands dollars as a time.
+    - Operated and maintained an ATM.

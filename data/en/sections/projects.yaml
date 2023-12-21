@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# # filter buttons
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: Professional
+#   filter: "professional"
+# - name: Academic
+#   filter: "academic"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: Modeling the 2019 UK Parlimentry Election using Random Forests
+  logo: /images/sections/projects/UKicon.png
+  role: Creater
+  timeline: "March 2021 - June 2021"
+  repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The goal of this project is to accurately model the results the United Kingdom Parlimentry General Election that took place on Dember 12th, 2019. 
+  tags: ["tidymodels", "R", "random forest"]
+
+- name: Geogria Senate Runoff Simulation
+  logo: /images/sections/projects/georgia.png
+  role: Creater
+  timeline: "September 2020 - January 2021"
+  repo: https://github.com/connorputnam/connorputnam-finalproject-Election_Simulation
+  #url: ""
+  summary: The goal of this project is to simulate and obtain probabilities for the January 5, 2021 Georgia Senate Runoff Election between incumbent Republican Senator David Purdue and Democratic challenger Jon Ossoff. 
+  tags: ["bootstrapping", "election","R"]
+
+- name: Using Poisson and Negative Binomial Regression to Model the Number of Bombs Dropped in WW2
+  logo: /images/sections/projects/ww2.png
+  role: Creator
+  timeline: "September 2020 - December 2020"
+  url: https://github.com/connorputnam/Bomb-Count-using-Poisson-Regression
+  summary: Data was sourced from Kaggle.com and it contains thousands of observations of single bombing missions between May 15, 1940 - May 2, 1945. The purpose of the project is to explore count regression models that accurate explain the data.
+  tags: ["poisson regression","negative binomial regression", "R", "GLM"]
+
+- name: 2017 French Presidential Election Shiny Document
+  logo: /images/sections/projects/french_flag.png
+  role: Creater
+  timeline: "April 2020 - June 2020"
+  repo: https://github.com/connorputnam/2017-French-Election
+  url: "https://putnamco.shinyapps.io/2017-French-Election/"
+  summary: Visualizations from the 2017 French Presidential Election
+  tags: ["data visualization", "ggplot2", "election"]
+
+#- name: Toha
+#  logo: /images/sections/projects/toha.png
+#  role: Owner
+#  timeline: "Jun 2019 - Present"
+#  repo: https://github.com/hossainemruz/toha
+#  summary: A Hugo theme for personal portfolio.
+#  tags: ["hobby","hugo","theme","professional"]
