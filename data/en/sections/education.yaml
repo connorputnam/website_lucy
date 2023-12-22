@@ -25,31 +25,19 @@ degrees:
     - name: Psychometrics
     - name: Perception
     - name: Graduate Level Statistics
-  takenResearch: #(optional)
-    courses:
-    - name: Research conducted using Tobi eye-tracking software; analyses completed using R and python
 - name: B.A. Cognitive Psychology
   icon: fa-graduation-cap
   timeframe: 2016-2017
   institution:
     name: California State University - East Bay
     url: "#"
-  takenCourses: #(optional)
+  #takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades:
-    courses:
-    - name: Calculus
-    - name: Analysis of Economic Data
-    - name: Intermidate Mirco & Macro Economics
-    - name: Financial Economics
-- name: B.A. History
-  icon: fa-university
-  timeframe: 2013 - 2016
-  institution:
-    name: University of California, Davis
-    url: "#"
-  takenCourses: #(Optional)
-    showGrades:
-    courses:
-    - name: Various Courses in European and MiddleEastern History
+    # showGrades:
+    # courses:
+    # - name: Calculus
+    # - name: Analysis of Economic Data
+    # - name: Intermidate Mirco & Macro Economics
+    # - name: Financial Economics
+
 
