@@ -25,7 +25,8 @@ degrees:
     - name: Psychometrics
     - name: Perception
     - name: Graduate Level Statistics
-  Research: #(optional)
+  takenResearch: #(optional)
+    courses:
     - name: Research conducted using Tobi eye-tracking software; analyses completed using R and python
 - name: B.A. Cognitive Psychology
   icon: fa-graduation-cap
