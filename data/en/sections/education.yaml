@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: M.S. Statistics
+- name: M.S. Engineering Psychology
   icon: fa-microscope
   timeframe: 2019-2021
   institution:
@@ -20,22 +20,18 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades:
     courses:
-    - name: Generalized Linear Models (GLM)
-    - name: Probability, Computation, and Simulation
-    - name: Data Science Tools & Programming
-    - name: Linear Models
-    - name: Data Visualization
-    - name: Experimental Design
-    - name: Statistical Theory
-    - name: Methods of Big Data
-    - name: Time Series
-    - name: Sampling Methods
-    - name: Statistical Consulting
-- name: B.A. Economics
+    - name: Inclusive Design
+    - name: Cognitive Neuroscience
+    - name: Psychometrics
+    - name: Perception
+    - name: Graduate Level Statistics
+  Research: #(optional)
+    - name: Research conducted using Tobi eye-tracking software; analyses completed using R and python
+- name: B.A. Cognitive Psychology
   icon: fa-graduation-cap
-  timeframe: 2013-2016
+  timeframe: 2016-2017
   institution:
-    name: University of California, Davis
+    name: California State University - East Bay
     url: "#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
