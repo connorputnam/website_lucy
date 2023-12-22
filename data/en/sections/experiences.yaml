@@ -12,7 +12,7 @@ section:
 experiences:
 - company:
     name: Alteryx
-    url: "https://stat.oregonstate.edu/"
+    url: "https://www.alteryx.com/"
     location: Irvine, CA
     # company overview
     overview: Software company whose products are used for data science and analytics.
@@ -23,12 +23,7 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Proficient in end-to-end research, qualitative, quantitative or mixed methods, across various domains such as web-based
-platforms, cloud-based services and desktop or web applications. Skilled in Qualtrics and User Interviews internal and
-external panel management and recruitment of niche user populations. Facilitate the democratization and delegation of
-research and operations responsibilities to enhance collaboration and productivity within the UX team. Consistently deliver
-on challenging projects such as coordinating large scale in-person labs, pricing and packaging studies, assessing user risk
-tolerance as well as organizing research efforts behind generative AI products.
+    - Proficient in end-to-end research, qualitative, quantitative or mixed methods, across various domains such as web-based platforms, cloud-based services and desktop or web applications. Skilled in Qualtrics and User Interviews internal and external panel management and recruitment of niche user populations. Facilitate the democratization and delegation of research and operations responsibilities to enhance collaboration and productivity within the UX team. Consistently deliver on challenging projects such as coordinating large scale in-person labs, pricing and packaging studies, assessing user risk tolerance as well as organizing research efforts behind generative AI products.
 - company:
     name: IXIS Digital
     url: "https://ixisdigital.com/"
