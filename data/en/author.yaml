@@ -1,6 +1,6 @@
 # some information about you
-name: "Connor Putnam"
-nickname: "Connor"
+name: "Arthur Putnam"
+nickname: "Art"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/connor2.png"
@@ -10,7 +10,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a data analyst
-  - I am a R programmer
-  - I love to work on data science projects
-  - I love data
+  - I am a baby
+  - I am a cute
+  - I love make my mom sick
+  - I am a boy
