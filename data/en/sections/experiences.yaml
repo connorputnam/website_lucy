@@ -24,6 +24,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Proficient in end-to-end research, qualitative, quantitative or mixed methods, across various domains such as web-based platforms, cloud-based services and desktop or web applications. Skilled in Qualtrics and User Interviews internal and external panel management and recruitment of niche user populations. Facilitate the democratization and delegation of research and operations responsibilities to enhance collaboration and productivity within the UX team. Consistently deliver on challenging projects such as coordinating large scale in-person labs, pricing and packaging studies, assessing user risk tolerance as well as organizing research efforts behind generative AI products.
+
 - company:
     name: UserZoom
     url: "https://www.userzoom.com"
@@ -43,7 +44,7 @@ experiences:
     url: "https://www.google.com/"
     location: Moutain View, CA
     # company overview
-    overview: ? 
+    overview: idk.
   positions:
   - designation: User Research Assistant IV
     start: June 2017 
@@ -53,3 +54,63 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and moderate studies; travel to conduct in-person focus groups, establish a foundational persona report for potential users; run data collection efforts for AI model training as well as for hardware/software consumers.
+
+- company:
+    name: Oregon State University
+    url: "https://stat.oregonstate.edu/"
+    location: Corvallis, Oregon
+    # company overview
+    overview: A large Public University located in the Pacfic Northwest. 
+  positions:
+  - designation: Graduate Teaching Assistant
+    start: September 2019
+    end: March 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Conducted labs for serval courses, covering undergraduate topics in statistical methods and R programming
+    - Held office hours and maintained a gradebook
+
+- company:
+    name: EVmatch
+    url: "https://www.evmatch.com/"
+    location: Remote
+    overview: EVmatch is a peer to peer electric car charging platform.
+  positions:
+  - designation: Data and Product Analyst Intern
+    start: September 2020
+    end: Janurary 2021
+    responsibilities:
+      - Identified and analyzed data sets to inform product development.
+      - Developed data-driven customer engagement tools.
+      - Performed statistical analyses to identify customer characteristics.
+      - Created several static as well as dynamic visualizations.
+
+- company:
+    name: Scotts Valley Unified Schools
+    url: "https://scottsvalley-ca.schoolloop.com/"
+    location: Scotts Valley, California
+    overview: Public school system loctaed in the Bay Area.
+  positions:
+  - designation: Math Educator
+    start: August 2017
+    end: Jun 2019
+    responsibilities:
+    - Maintian a productive classroom work eviroment
+    - Taught high school level Alegbra and Geometry
+    - Maintained a gradebook
+
+- company:
+    name: Chase
+    url: "https://www.chase.com/"
+    location: Oakland, California
+    overview: Nationwide customer bank
+  positions:
+  - designation: Bank Teller
+    start: August 2016
+    end: Jun 2017
+    responsibilities:
+    - Customer service.
+    - Managed several hundred thousands dollars as a time.
+    - Operated and maintained an ATM.
