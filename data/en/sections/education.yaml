@@ -39,5 +39,14 @@ degrees:
     # - name: Analysis of Economic Data
     # - name: Intermidate Mirco & Macro Economics
     # - name: Financial Economics
-
+- name: B.A. History
+  icon: fa-university
+  timeframe: 2013 - 2016
+  institution:
+    name: University of California, Davis
+    url: "#"
+  takenCourses: #(Optional)
+    showGrades:
+    courses:
+    - name: Various Courses in European and MiddleEastern History
 
