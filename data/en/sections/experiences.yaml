@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Oregon State University
+    name: Alteryx
     url: "https://stat.oregonstate.edu/"
     location: Remote
     # company overview
-    overview: A large Public University located in the Pacfic Northwest.
+    overview: Software company whose products are used for data science and analytics.
   positions:
-  - designation: Instructor
-    start: December 2022
+  - designation: Senior User Researcher
+    start: October 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
