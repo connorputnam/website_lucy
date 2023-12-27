@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Graduate Student and Aspiring Data Analyst 
+designation: I am Connor's wife 
 # your company information
 #company:
 #  name: Example Co.
@@ -18,7 +18,10 @@ designation: Graduate Student and Aspiring Data Analyst
 resume: "files/Resume 2022.pdf"
 
 # a summary about you
-summary: 'I am passionate for learning new things about the world around me through data. I enjoy working on visualization as well as modeling projects.' 
+summary: 'As a Senior UX Researcher with over 6 years of experience, I balance quantitative and qualitative research methodologies
+to investigate and enhance product usability. Whether B2B or B2C, I try to engage non-researchers in my process to show
+how the right research approach can transform a worn user experience into something fluid and seamless. My expertise in
+various tools enables my team and me to conduct stable, functional studies that deliver reliable results.' 
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
