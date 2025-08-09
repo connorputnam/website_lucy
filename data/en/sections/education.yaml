@@ -16,15 +16,15 @@ degrees:
   institution:
     name: Oregon State University
     url: "#"
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades:
-    courses:
-    - name: Inclusive Design
-    - name: Cognitive Neuroscience
-    - name: Psychometrics
-    - name: Perception
-    - name: Graduate Level Statistics
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades:
+  #   courses:
+  #   - name: Inclusive Design
+  #   - name: Cognitive Neuroscience
+  #   - name: Psychometrics
+  #   - name: Perception
+  #   - name: Graduate Level Statistics
 - name: B.A. Cognitive Psychology
   icon: fa-graduation-cap
   timeframe: 2016-2017
