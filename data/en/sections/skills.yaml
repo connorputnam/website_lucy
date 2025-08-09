@@ -11,7 +11,7 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: R
+- name: Generative Research
   logo: "/images/sections/skills/Ricon.png"
   summary: "Capable of conducting descriptive statistics, t-tests, correlations, odd’s ratios, and significance testing in R, as well basic visualizations."
 
@@ -27,7 +27,7 @@ skills:
   logo: "/images/sections/skills/SAS.png"
   summary: "Familiar with a variety of popular benchmarking calculations, such as SUS, UM-UX, NPS and SUPR-Q."
 
-- name: Generative Research
+- name: Strategic Research
   logo: "/images/sections/skills/python.png"
   summary: "Expert in co-creation activities (1:1 or focus groups), open-ended discovery interviews, and thematic coding. I use a range of tools for this such as Figma, Lucid, and excel for coding responses."
   
