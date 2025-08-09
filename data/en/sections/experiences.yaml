@@ -13,18 +13,23 @@ experiences:
 - company:
     name: Alteryx
     url: "https://www.alteryx.com/"
-    location: Irvine, CA
+    location: Irvine, CA [Remote in Portland, OR]
     # company overview
     overview: Software company whose products are used for data science and analytics.
   positions:
-  - designation: Senior User Researcher
+  - designation: Senior UX Researcher; AI Products & Intelligence
     start: October 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Proficient in end-to-end research, qualitative, quantitative or mixed methods, across various domains such as web-based platforms, cloud-based services and desktop or web applications. Skilled in Qualtrics and User Interviews internal and external panel management and recruitment of niche user populations. Facilitate the democratization and delegation of research and operations responsibilities to enhance collaboration and productivity within the UX team. Consistently deliver on challenging projects such as coordinating large scale in-person labs, pricing and packaging studies, assessing user risk tolerance as well as organizing research efforts behind generative AI products.
-
+    - Executed foundational research to understand how advanced technical users approach problem-solving, collaboration, and
+      AI tool adoption. Led a strategic study series to uncover how embedded AI features affect user performance across key
+      tasks. Captured evolving perceptions of AI with a special focus on data security concerns. Managed niche user panels,
+      internal and external, in Qualtrics and User Interviews to facilitate on-demand study recruitment. Facilitated the
+      democratization and delegation of research and operations responsibilities to enhance collaboration and productivity within
+      the Voice of the Customer Team. Acting AI Champion uncovering innovative approaches to improving employee efficiency
+      with intelligent tools and integrations.
 - company:
     name: UserZoom
     url: "https://www.userzoom.com"
@@ -32,13 +37,15 @@ experiences:
     # company overview
     overview: User Experience Reseacher Software company 
   positions:
-  - designation: User Researcher
+  - designation: UX Researcher
     start: Februray 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: October 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and complete moderated and unmoderated studies for various browser or app-based clients (common industries include retail, banking, gaming, healthcare, IT and academia) with a specialization in WCAG compliant accessibility.
+    - Design and complete moderated and unmoderated studies for various browser or app-based clients (common industries
+      include retail, banking, gaming, healthcare, IT and academia) with a specialization in WCAG compliant accessibility.
+      Developed an internal remote platform for user interviews with populations of users with disabilities.
 - company:
     name: Google (ATAP Division)
     url: "https://www.google.com/"
@@ -53,4 +60,6 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and moderate studies; travel to conduct in-person focus groups, establish a foundational persona report for potential users; run data collection efforts for AI model training as well as for hardware/software consumers.
+    - Design and moderate studies; travel to conduct in-person focus groups, establish foundational personas for potential
+      users; run data collection efforts for AI model training as well as for AR hardware/software consumers. Special projects
+      included Jacquard (Google x Levis), Soli (Google Pixel).
