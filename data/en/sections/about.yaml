@@ -8,27 +8,30 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Senior User Expereience Researcher
+designation: Senior UX Researcher, Intelligence Services at Alteryx
+
 # your company information
 #company:
 #  name: Example Co.
 #  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Resume 2022.pdf"
+resume: "files/Resume 2025.pdf"
 
 # a summary about you
-summary: 'As a Senior UX Researcher with over 6 years of experience, I balance quantitative and qualitative research methodologies
-to investigate and enhance product usability. Whether B2B or B2C, I try to engage non-researchers in my process to show
-how the right research approach can transform a worn user experience into something fluid and seamless. My expertise in
-various tools enables my team and me to conduct stable, functional studies that deliver reliable results.' 
+summary: 'I am an AI Researcher with over eight years in the field of user experience research. I specialize
+in evaluating and optimizing complex products, both hardware and software. I bring a balanced approach to 
+research, combining quantitative rigor with rich qualitative insight to surface actionable opportunities and 
+shape product strategy. I aim to make research visible and collaborative—inviting cross-functional partners 
+into the process to uncover how the right questions can transform friction-filled experiences into intuitive, 
+future-ready tools.' 
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "coputnam@gmail.com"
+  url: "lucydurand@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
