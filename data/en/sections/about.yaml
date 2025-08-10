@@ -33,17 +33,17 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "lucydurand@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/connorputnam"
+# - name: Github
+#   icon: "fab fa-github"
+#   url: "https://github.com/connorputnam"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ludura/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
