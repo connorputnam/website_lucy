@@ -12,37 +12,37 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Generative Research
-  logo: "/images/sections/skills/Ricon.png"
+  logo: "/images/sections/skills/Lucy Skills/GenerativeResearch.png"
   summary: "Capable of conducting descriptive statistics, t-tests, correlations, odd’s ratios, and significance testing in R, as well basic visualizations."
 
 - name: Moderated Interviews
-  logo: "/images/sections/skills/MySQL.png"
+  logo: "/images/sections/skills/Lucy Skills/ModeratedInterviews.png"
   summary: "Experienced in structured, semi-structured, and generative discovery interview approaches. I run these end-to-end, beginning with research approaches and scripts, ending with highlight reels of key moments from each interview."
 
 - name: Unmoderated Studies
-  logo: "/images/sections/skills/shiny.png"
+  logo: "/images/sections/skills/Lucy Skills/UnmoderatedStudies.png"
   summary: "Having worked at Userzoom, I developed expertise in a range of unmoderated methods such as tree tests, card sorts, task-based TOLs, click tests, and surveys – though I prefer Qualtrics for the latter!"
 
 - name: Benchmarking
-  logo: "/images/sections/skills/SAS.png"
+  logo: "/images/sections/skills/Lucy Skills/Benchmarking.png"
   summary: "Familiar with a variety of popular benchmarking calculations, such as SUS, UM-UX, NPS and SUPR-Q."
 
 - name: Strategic Research
-  logo: "/images/sections/skills/python.png"
+  logo: "/images/sections/skills/Lucy Skills/StrategicResearch.png"
   summary: "Expert in co-creation activities (1:1 or focus groups), open-ended discovery interviews, and thematic coding. I use a range of tools for this such as Figma, Lucid, and excel for coding responses."
   
 - name: Personas
-  logo: "/images/sections/skills/latex.png"
+  logo: "/images/sections/skills/Lucy Skills/Personas.png"
   summary: "Whether through in-depth interview sprints or cluster analyses on response data, persona work is one of my preferred projects."
   
 - name: Prototype Testing
-  logo: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/Lucy Skills/PrototypeTesting.png"
   summary: "Experienced with a range of prototypes, from hardware to software, augmented reality tools to artificial intelligence bots! I am not afraid of buggy screens and comfortable with ambiguity."
 
 - name: Stakeholder Management
-  logo: "/images/sections/skills/git.png"
+  logo: "/images/sections/skills/Lucy Skills/StakeholderManagement.png"
   summary: "B2B and B2C experiences have prepared me to work cross-team, cross-product, and across a multitude of niche users. I use clear communication and am ready to meet and exceed expectations. Sharing my research with others is the best part!"
 
 - name: Accessibility Testing
-  logo: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/Lucy Skills/AccessibilityTesting.png"
   summary: "My participants’ best interest is my best interest. This is why I became a lead accessibility researcher and executed innovative methods to assess WCAG compliance. I also have many years of experience with GDPR compliance."
