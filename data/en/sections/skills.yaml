@@ -13,36 +13,36 @@ section:
 skills:
 - name: Generative Research
   logo: "/images/sections/skills/Lucy Skills/GenerativeResearch.png"
-  summary: "Capable of conducting descriptive statistics, t-tests, correlations, odd’s ratios, and significance testing in R, as well basic visualizations."
-
-- name: Moderated Interviews
-  logo: "/images/sections/skills/Lucy Skills/ModeratedInterviews.png"
-  summary: "Experienced in structured, semi-structured, and generative discovery interview approaches. I run these end-to-end, beginning with research approaches and scripts, ending with highlight reels of key moments from each interview."
-
-- name: Unmoderated Studies
-  logo: "/images/sections/skills/Lucy Skills/UnmoderatedStudies.png"
-  summary: "Having worked at Userzoom, I developed expertise in a range of unmoderated methods such as tree tests, card sorts, task-based TOLs, click tests, and surveys – though I prefer Qualtrics for the latter!"
-
-- name: Benchmarking
-  logo: "/images/sections/skills/Lucy Skills/Benchmarking.png"
-  summary: "Familiar with a variety of popular benchmarking calculations, such as SUS, UM-UX, NPS and SUPR-Q."
+  summary: "Conduct exploratory research to uncover user mental models and pain points – especially around AI adoption. Leverage discovery interviews, journey mapping, and design component kits to inform product strategy."
 
 - name: Strategic Research
+  logo: "/images/sections/skills/Lucy Skills/ModeratedInterviews.png"
+  summary: "Design and lead multi-phase research studies to answer hard questions that inform product strategy and roadmaps. My goal is to align AI product development with real user needs to ensure the business succeeds in a crowded landscape of competitors."
+
+- name: Benchmarking
+  logo: "/images/sections/skills/Lucy Skills/UnmoderatedStudies.png"
+  summary: "Establish performance baselines using standardized metrics such as SUS, NPS, and SUPR-Q, enabling iterative improvement and stakeholder alignment. Implement innovative metrics for measuring satisfaction with AI agent user experience, from content of conversation to actions performed by the AI agent on behalf of the user."
+
+- name: Moderated Interviews
+  logo: "/images/sections/skills/Lucy Skills/Benchmarking.png"
+  summary: "Lead end-to-end generative and evaluative interviews, from script development to synthesis, to inform the design and refinement of AI-powered tools. Various platforms include zoom, teams, userzoom; comfortable with running remote moderated interviews on virtual machines."
+
+- name: Unmoderated Studies
   logo: "/images/sections/skills/Lucy Skills/StrategicResearch.png"
-  summary: "Expert in co-creation activities (1:1 or focus groups), open-ended discovery interviews, and thematic coding. I use a range of tools for this such as Figma, Lucid, and excel for coding responses."
+  summary: "Design and analyze unmoderated research (e.g., surveys, card sorts, click tests, TOL task-based studies) to evaluate product usability and navigation. Skilled with platforms like Qualtrics and Userzoom."
   
 - name: Personas
   logo: "/images/sections/skills/Lucy Skills/Personas.png"
-  summary: "Whether through in-depth interview sprints or cluster analyses on response data, persona work is one of my preferred projects."
+  summary: "Develop data-driven personas based on real use cases and behavioral segmentation; workshop and democratize personas to ensure their universal familiarity across the company to better inform product strategy."
   
 - name: Prototype Testing
   logo: "/images/sections/skills/Lucy Skills/PrototypeTesting.png"
-  summary: "Experienced with a range of prototypes, from hardware to software, augmented reality tools to artificial intelligence bots! I am not afraid of buggy screens and comfortable with ambiguity."
+  summary: "Evaluate prototypes across a range of fidelity levels, providing actionable feedback on usability, functionality, and user trust."
 
 - name: Stakeholder Management
   logo: "/images/sections/skills/Lucy Skills/StakeholderManagement.png"
-  summary: "B2B and B2C experiences have prepared me to work cross-team, cross-product, and across a multitude of niche users. I use clear communication and am ready to meet and exceed expectations. Sharing my research with others is the best part!"
+  summary: "Collaborate cross-functionally with product, design, and engineering teams to prioritize research insights and influence feature strategy."
 
 - name: Accessibility Testing
   logo: "/images/sections/skills/Lucy Skills/AccessibilityTesting.png"
-  summary: "My participants’ best interest is my best interest. This is why I became a lead accessibility researcher and executed innovative methods to assess WCAG compliance. I also have many years of experience with GDPR compliance."
+  summary: "Lead accessibility research to ensure products meet WCAG standards and enhance usability for diverse users, with a strong focus on ethical compliance and inclusive design."
