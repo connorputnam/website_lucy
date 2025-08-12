@@ -21,40 +21,50 @@ section:
 
 # your projects
 projects:
-- name: Modeling the 2019 UK Parlimentry Election using Random Forests
+- name: Alteryx Copilot 
   logo: /images/sections/projects/UKicon.png
   role: Creater
-  timeline: "March 2021 - June 2021"
-  repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: The goal of this project is to accurately model the results the United Kingdom Parlimentry General Election that took place on Dember 12th, 2019. 
+  timeline: "2023 - Present"
+  #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Since 2023, I’ve led end-to-end UX research for Alteryx Copilot. My work has spanned usability benchmarking using traditional and custom metrics, pricing and packaging research with enterprise buyers, and a retroactive analysis of commonly posted user  questions to identify high-priority support topics and inform AI response design. I’ve supported the product through all phases, past, present, and future —identifying adoption barriers, optimizing usability, and continuously guiding strategy through targeted research at every turn.
   tags: ["tidymodels", "R", "random forest"]
 
-- name: Geogria Senate Runoff Simulation
-  logo: /images/sections/projects/georgia.png
+- name: Mapping the Data Scientist Journey  
+  logo: /images/sections/projects/UKicon.png
   role: Creater
-  timeline: "September 2020 - January 2021"
-  repo: https://github.com/connorputnam/connorputnam-finalproject-Election_Simulation
-  #url: ""
-  summary: The goal of this project is to simulate and obtain probabilities for the January 5, 2021 Georgia Senate Runoff Election between incumbent Republican Senator David Purdue and Democratic challenger Jon Ossoff. 
-  tags: ["bootstrapping", "election","R"]
+  timeline: "2025"
+  #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I led a research effort focused on deeply understanding the evolving AI expectations of data scientists. Through in-depth interviews, co-design activities, and collaborative journey mapping, I synthesized cross-industry insights that surfaced unmet needs and high-friction moments. The findings directly shaped product and positioning strategy, identifying opportunities for more intelligent tooling, AI support, and better alignment with technical users’ real-world challenges.
+  tags: ["tidymodels", "R", "random forest"]
 
-- name: Using Poisson and Negative Binomial Regression to Model the Number of Bombs Dropped in WW2
-  logo: /images/sections/projects/ww2.png
-  role: Creator
-  timeline: "September 2020 - December 2020"
-  url: https://github.com/connorputnam/Bomb-Count-using-Poisson-Regression
-  summary: Data was sourced from Kaggle.com and it contains thousands of observations of single bombing missions between May 15, 1940 - May 2, 1945. The purpose of the project is to explore count regression models that accurate explain the data.
-  tags: ["poisson regression","negative binomial regression", "R", "GLM"]
-
-- name: 2017 French Presidential Election Shiny Document
-  logo: /images/sections/projects/french_flag.png
+- name: Project Soli
+  logo: /images/sections/projects/UKicon.png
   role: Creater
-  timeline: "April 2020 - June 2020"
-  repo: https://github.com/connorputnam/2017-French-Election
-  url: "https://putnamco.shinyapps.io/2017-French-Election/"
-  summary: Visualizations from the 2017 French Presidential Election
-  tags: ["data visualization", "ggplot2", "election"]
+  timeline: "2017-2019"
+  #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://design.google/library/a-new-interaction-design-paradigm"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The Soli chip is a miniature radar sensor developed by Google. It was first introduced to consumers in the Pixel 4 and Pixel 4 XL smartphones. Soli emits electromagnetic waves and analyzes how they bounce back off your hand. Using machine learning models, the chip interprets this motion data as specific gestures.Utilizing a delicate hardware prototype in real-world user tests, I conducted research to shape a novel interaction paradigm grounded in human behavior—demonstrating an augmented reality user experience that feels intuitive and magical.
+  tags: ["tidymodels", "R", "random forest"]
+
+- name: Project Jacquard
+  logo: /images/sections/projects/UKicon.png
+  role: Creater
+  timeline: "2017-2019"
+  #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.youtube.com/watch?v=qObSFfdfe7I&list=PLosovmwdWDNtoRIOc2jGM-zrmCTY47PWR&index=1"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: I led a research effort focused on deeply understanding the evolving AI expectations of data scientists. Through in-depth interviews, co-design activities, and collaborative journey mapping, I synthesized cross-industry insights that surfaced unmet needs and high-friction moments. The findings directly shaped product and positioning strategy, identifying opportunities for more intelligent tooling, AI support, and better alignment with technical users’ real-world challenges.
+  tags: ["tidymodels", "R", "random forest"]
+  
+- name: Bringing AI to UX
+  logo: /images/sections/projects/UKicon.png
+  role: Creater
+  timeline: "Internal"
+  #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: As the AI champion for the UX research team, I lead efforts to integrate AI tools that boost efficiency and innovation. I created a custom peer review assistant—Research Review Buddy—to support researchers in planning and analysis. I'm continuously vetting AI-moderated research vendors, evaluating tools for GDPR and SOC 2 compliance, and exploring real-world use cases through hands-on demos to assess participant reaction to non-human moderators.
+  tags: ["tidymodels", "R", "random forest"]
 
 #- name: Toha
 #  logo: /images/sections/projects/toha.png
