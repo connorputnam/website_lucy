@@ -47,11 +47,11 @@ experiences:
       include retail, banking, gaming, healthcare, IT and academia) with a specialization in WCAG compliant accessibility.
       Developed an internal remote platform for user interviews with populations of users with disabilities.
 - company:
-    name: Google (Advanced Tech and Projects Division)
+    name: Google
     url: "https://www.cio.com/article/244392/inside-google-s-advanced-technology-and-projects-group.html"
     location: Moutain View, CA
     # company overview
-    overview: idk.
+    overview: Advanced Tech and Projects Division
   positions:
   - designation: User Research Assistant IV
     start: June 2017 

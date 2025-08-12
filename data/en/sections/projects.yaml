@@ -23,7 +23,7 @@ section:
 projects:
 - name: Alteryx Copilot 
   logo: /images/sections/projects/UKicon.png
-  role: Creater
+  role: Creator
   timeline: "2023 - Present"
   #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -32,7 +32,7 @@ projects:
 
 - name: Mapping the Data Scientist Journey  
   logo: /images/sections/projects/UKicon.png
-  role: Creater
+  role: Creator
   timeline: "2025"
   #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -41,7 +41,7 @@ projects:
 
 - name: Project Soli
   logo: /images/sections/projects/UKicon.png
-  role: Creater
+  role: Creator
   timeline: "2017-2019"
   #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://design.google/library/a-new-interaction-design-paradigm"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -50,16 +50,16 @@ projects:
 
 - name: Project Jacquard
   logo: /images/sections/projects/UKicon.png
-  role: Creater
+  role: Creator
   timeline: "2017-2019"
   #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.youtube.com/watch?v=qObSFfdfe7I&list=PLosovmwdWDNtoRIOc2jGM-zrmCTY47PWR&index=1"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: I led a research effort focused on deeply understanding the evolving AI expectations of data scientists. Through in-depth interviews, co-design activities, and collaborative journey mapping, I synthesized cross-industry insights that surfaced unmet needs and high-friction moments. The findings directly shaped product and positioning strategy, identifying opportunities for more intelligent tooling, AI support, and better alignment with technical users’ real-world challenges.
+  summary: Project Jacquard is a gesture-based textile platform developed by Google. Using touch-sensitive technology into fabric, it brings interactivity into everyday objects—like the ever-popular Levi’s jean jacket—without adding screens or buttons.Research efforts include diary studies with beta testers to evaluate real-world use of ambient, gesture-based interactions on clothing. Conducted foundational research (in-person focus groups along with 1:1 interviews with card sorting activity) with luxury consumers and retailers to guide the product’s positioning at the intersection of fashion and tech.
   tags: ["tidymodels", "R", "random forest"]
   
 - name: Bringing AI to UX
   logo: /images/sections/projects/UKicon.png
-  role: Creater
+  role: Creator
   timeline: "Internal"
   #repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.alteryx.com/products/capabilities/generative-ai/alteryx-copilot"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
