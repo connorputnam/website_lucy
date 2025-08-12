@@ -16,19 +16,19 @@ skills:
   summary: "Conduct exploratory research to uncover user mental models and pain points – especially around AI adoption. Leverage discovery interviews, journey mapping, and design component kits to inform product strategy."
 
 - name: Strategic Research
-  logo: "/images/sections/skills/Lucy Skills/ModeratedInterviews.png"
+  logo: "/images/sections/skills/Lucy Skills/StrategicResearch.png"
   summary: "Design and lead multi-phase research studies to answer hard questions that inform product strategy and roadmaps. My goal is to align AI product development with real user needs to ensure the business succeeds in a crowded landscape of competitors."
 
 - name: Benchmarking
-  logo: "/images/sections/skills/Lucy Skills/UnmoderatedStudies.png"
+  logo: "/images/sections/skills/Lucy Skills/Benchmarking.png"
   summary: "Establish performance baselines using standardized metrics such as SUS, NPS, and SUPR-Q, enabling iterative improvement and stakeholder alignment. Implement innovative metrics for measuring satisfaction with AI agent user experience, from content of conversation to actions performed by the AI agent on behalf of the user."
 
 - name: Moderated Interviews
-  logo: "/images/sections/skills/Lucy Skills/Benchmarking.png"
+  logo: "/images/sections/skills/Lucy Skills/ModeratedInterviews.png"
   summary: "Lead end-to-end generative and evaluative interviews, from script development to synthesis, to inform the design and refinement of AI-powered tools. Various platforms include zoom, teams, userzoom; comfortable with running remote moderated interviews on virtual machines."
 
 - name: Unmoderated Studies
-  logo: "/images/sections/skills/Lucy Skills/StrategicResearch.png"
+  logo: "/images/sections/skills/Lucy Skills/UnmoderatedStudies.png"
   summary: "Design and analyze unmoderated research (e.g., surveys, card sorts, click tests, TOL task-based studies) to evaluate product usability and navigation. Skilled with platforms like Qualtrics and Userzoom."
   
 - name: Personas
